@@ -1,6 +1,6 @@
 #pragma once
 
-#include "node.h"
+#include "../pipeline/node.h"
 
 #include <QQuickItem>
 #include <QOpenGLContext>

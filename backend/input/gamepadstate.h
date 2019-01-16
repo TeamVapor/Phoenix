@@ -3,7 +3,7 @@
 #include <QMap>
 #include <QObject>
 
-#include "node.h"
+#include "../pipeline/node.h"
 
 #include "SDL.h"
 #include "SDL_gamecontroller.h"

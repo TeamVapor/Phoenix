@@ -13,11 +13,11 @@
 #include "backendplugin.h"
 
 #include "debughandler.h"
-
+#define PHOENIX_VER_STR "v.05"
 // Misc
 #include "phxpaths.h"
 #include "logging.h"
-#include "version.h"
+//#include "version.h"
 
 // SDL2/Qt main() conflict fix
 // Use SDL2's SDL_main() instead of Qt's qMain()

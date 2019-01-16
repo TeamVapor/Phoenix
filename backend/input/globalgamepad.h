@@ -2,7 +2,7 @@
 
 #include <QObject>
 
-#include "node.h"
+#include "../pipeline/node.h"
 
 /*
  * GlobalGamepad is a Node designed to present Phoenix's QML-based UI with an OR of all controller states (with the exception

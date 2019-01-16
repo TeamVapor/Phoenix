@@ -1,8 +1,8 @@
 #pragma once
 
-#include "logging.h"
+#include "../util/logging.h"
 
-#include "node.h"
+#include "../pipeline/node.h"
 
 using QStringMap = QMap<QString, QString>;
 

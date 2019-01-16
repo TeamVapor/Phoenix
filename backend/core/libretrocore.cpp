@@ -591,6 +591,7 @@ bool LibretroCoreEnvironmentCallback( unsigned cmd, void *data ) {
                ) {
                 qDebug() << "Special controller:" << controllerInfo->types->desc;
             }
+            break;
 
         }
 
